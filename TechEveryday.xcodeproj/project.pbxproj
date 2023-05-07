@@ -59,8 +59,8 @@
 		00BEB44A2A06B82600A707D0 /* TechEveryday */ = {
 			isa = PBXGroup;
 			children = (
-				00BEB4592A075A1D00A707D0 /* Models */,
 				00BEB44B2A06B82600A707D0 /* TechEverydayApp.swift */,
+				00BEB4592A075A1D00A707D0 /* Models */,
 				00BEB45E2A0769B400A707D0 /* Views */,
 				00BEB44F2A06B82800A707D0 /* Assets.xcassets */,
 				00BEB4512A06B82800A707D0 /* Preview Content */,
